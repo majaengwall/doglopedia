@@ -1,17 +1,26 @@
-body {
+image {
     background-image: url(img/hund.jpg);
 }
 
 .container {
     width: 600px;
+    margin: auto;
 }
 
 .titel {
     text-align: center;
 }
 
+table {
+    margin: auto;
+}
+
 a {
     text-decoration-style: dotted;
-    margin-left: 150px;
-    margin-right: 150px;
+    color: black;
+    padding: 10px;
+}
+
+.copyright {
+    text-align: center;
 }
