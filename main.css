@@ -17,6 +17,8 @@ image {
 
 table {
     margin: auto;
+    padding-top: 10px;
+    padding-bottom: 5px;
 }
 
 a {
