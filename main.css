@@ -9,6 +9,9 @@ image {
 
 .titel {
     text-align: center;
+    background-color: rgb(245, 245, 220);
+    color: rgb(148, 128, 90);
+    padding: 10px;
 }
 
 table {
