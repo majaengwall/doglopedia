@@ -21,6 +21,7 @@ img {
     color: rgb(148, 128, 90);
     padding: 10px;
     margin-bottom: 10px;
+    border-radius: 7px;
 }
 
 nav {
