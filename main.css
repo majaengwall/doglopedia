@@ -25,6 +25,10 @@ a {
     padding: 10px;
 }
 
+#namn {
+    text-align: center;
+}
+
 .copyright {
     text-align: center;
 }
