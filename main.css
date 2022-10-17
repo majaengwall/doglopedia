@@ -1,0 +1,17 @@
+body {
+    background-image: url(img/hund.jpg);
+}
+
+.container {
+    width: 600px;
+}
+
+.titel {
+    text-align: center;
+}
+
+a {
+    text-decoration-style: dotted;
+    margin-left: 150px;
+    margin-right: 150px;
+}
